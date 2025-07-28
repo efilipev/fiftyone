@@ -1,0 +1,1 @@
+"use strict";function o(d,e){var i,l;return typeof(e==null?void 0:e.enabled)=="boolean"?e.enabled:(l=(i=d==null?void 0:d.__default)===null||i===void 0?void 0:i.enabled)!==null&&l!==void 0?l:!0}exports.isPlanEventEnabled=o;
